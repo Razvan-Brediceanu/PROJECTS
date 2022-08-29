@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.clock {
+    color: #17d4fe;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+.toggle {
+    color: green;
+    padding: 0.3rem;
+    border-radius: 5rem;
+}
+
+.toggleOff {
+    color: red;
+    padding: 0.3rem;
+    border-radius: 5rem;
+}
+
+.toggle:hover {
+    cursor: pointer;
+}
+
+.toggleOff:hover {
+    cursor: pointer;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
