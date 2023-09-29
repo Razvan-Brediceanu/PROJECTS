@@ -1,0 +1,94 @@
+g {
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+}
+
+text:hover {
+  fill: rgb(220, 223, 49);
+}
+
+text {
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.svgDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#IE-MO,
+#IE-SO,
+#IE-LM {
+  fill: #9ac462;
+}
+
+#IE-DL {
+  fill: #669c78;
+}
+
+#GB-NIR {
+  fill: #3d423e;
+}
+
+#IE-MN,
+#IE-CN {
+  fill: #669c77;
+}
+
+#IE-WH,
+#IE-LD {
+  fill: #5b5a5c;
+}
+
+#IE-G,
+#IE-RN {
+  fill: #669c77;
+}
+
+#IE-MH,
+#IE-LH {
+  fill: #9ac462;
+}
+
+#IE-OY,
+#IE-LS {
+  fill: #9ac462;
+}
+
+#IE-KE,
+#IE-WW {
+  fill: #669c77;
+}
+
+#IE-CE,
+#IE-LK {
+  fill: #9ac462;
+}
+
+#IE-TA {
+  fill: #4b846a;
+}
+
+#IE-KK,
+#IE-CW {
+  fill: #5b5a5c;
+}
+
+#IE-D {
+  fill: #5b5a5c;
+}
+
+#IE-WD,
+#IE-WX {
+  fill: #9ac462;
+}
+
+#IE-KY {
+  fill: #669c77;
+}
+
+#IE-CO {
+  fill: #5b5a5c;
+}
